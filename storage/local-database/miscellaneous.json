@@ -1,0 +1,300 @@
+{
+    "gender": [
+        {
+            "id": "1",
+            "subCatName": "Male"
+        },
+        {
+            "id": "2",
+            "subCatName": "Female"
+        }
+    ],
+    "blood_group": [
+        {
+            "id": "3",
+            "subCatName": "A+"
+        },
+        {
+            "id": "4",
+            "subCatName": "A-"
+        },
+        {
+            "id": "5",
+            "subCatName": "AB+"
+        },
+        {
+            "id": "6",
+            "subCatName": "AB-"
+        },
+        {
+            "id": "7",
+            "subCatName": "B+"
+        },
+        {
+            "id": "8",
+            "subCatName": "B-"
+        },
+        {
+            "id": "9",
+            "subCatName": "O+"
+        }
+    ],
+    "salutation": [
+        {
+            "id": "11",
+            "subCatName": "Mr"
+        },
+        {
+            "id": "12",
+            "subCatName": "Miss"
+        },
+        {
+            "id": "13",
+            "subCatName": "Mrs"
+        }
+    ],
+    "category": [
+        {
+            "id": "14",
+            "subCatName": "General"
+        },
+        {
+            "id": "15",
+            "subCatName": "OBC"
+        },
+        {
+            "id": "16",
+            "subCatName": "ST"
+        },
+        {
+            "id": "17",
+            "subCatName": "SC"
+        }
+    ],
+    "marital_status": [
+        {
+            "id": "18",
+            "subCatName": "Married"
+        },
+        {
+            "id": "19",
+            "subCatName": "Single"
+        },
+        {
+            "id": "20",
+            "subCatName": "Divorced"
+        },
+        {
+            "id": "21",
+            "subCatName": "Widowed"
+        }
+    ],
+    "disability": [
+        {
+            "id": "22",
+            "subCatName": "No"
+        },
+        {
+            "id": "23",
+            "subCatName": "Yes"
+        }
+    ],
+    "fathers_qualification": [
+        {
+            "id": "24",
+            "subCatName": "Matriculation"
+        },
+        {
+            "id": "25",
+            "subCatName": "Inter"
+        },
+        {
+            "id": "26",
+            "subCatName": "Graduation"
+        },
+        {
+            "id": "27",
+            "subCatName": "Post Graduation"
+        }
+    ],
+    "mothers_qualification": [
+        {
+            "id": "28",
+            "subCatName": "Matriculation"
+        },
+        {
+            "id": "29",
+            "subCatName": "Inter"
+        },
+        {
+            "id": "30",
+            "subCatName": "Graduation"
+        },
+        {
+            "id": "31",
+            "subCatName": "Post Graduation"
+        }
+    ],
+    "fathers_occupation": [
+        {
+            "id": "901",
+            "subCatName": "Business Man"
+        },
+        {
+            "id": "902",
+            "subCatName": "Doctor"
+        },
+        {
+            "id": "903",
+            "subCatName": "Teacher"
+        },
+        {
+            "id": "904",
+            "subCatName": "Banker"
+        }
+    ],
+    "mothers_occupation": [
+        {
+            "id": "905",
+            "subCatName": "Business Man"
+        },
+        {
+            "id": "906",
+            "subCatName": "Doctor"
+        },
+        {
+            "id": "907",
+            "subCatName": "Teacher"
+        },
+        {
+            "id": "908",
+            "subCatName": "Banker"
+        },
+        {
+            "id": "909",
+            "subCatName": "House Wife"
+        }
+    ],
+    "nominee_relation": [
+        {
+            "id": "910",
+            "subCatName": "Spouse"
+        },
+        {
+            "id": "911",
+            "subCatName": "Son"
+        },
+        {
+            "id": "912",
+            "subCatName": "Daughter"
+        },
+        {
+            "id": "913",
+            "subCatName": "Father"
+        },
+        {
+            "id": "914",
+            "subCatName": "Mother"
+        }
+    ],
+    "f_member_relation": [
+        {
+            "id": "910",
+            "subCatName": "Spouse"
+        },
+        {
+            "id": "911",
+            "subCatName": "Son"
+        },
+        {
+            "id": "912",
+            "subCatName": "Daughter"
+        },
+        {
+            "id": "913",
+            "subCatName": "Father"
+        },
+        {
+            "id": "914",
+            "subCatName": "Mother"
+        }
+    ],
+    "exam_passed": [
+        {
+            "id": "910",
+            "subCatName": "Matriculation"
+        },
+        {
+            "id": "911",
+            "subCatName": "Inter"
+        },
+        {
+            "id": "912",
+            "subCatName": "Graduate"
+        },
+        {
+            "id": "913",
+            "subCatName": "Post Graduate"
+        }
+    ],
+    "div_grade": [
+        {
+            "id": "910",
+            "subCatName": "1st"
+        },
+        {
+            "id": "911",
+            "subCatName": "2nd"
+        },
+        {
+            "id": "912",
+            "subCatName": "3rd"
+        }
+    ],
+    "caste": [
+        {
+            "id": "1",
+            "subCatName": "Brahmin"
+        },
+        {
+            "id": "2",
+            "subCatName": "Others"
+        }
+    ],
+    "religion": [
+        {
+            "id": "1",
+            "subCatName": "Hinduism"
+        },
+        {
+            "id": "2",
+            "subCatName": "Islam"
+        },
+        {
+            "id": "3",
+            "subCatName": "Christianity"
+        },
+        {
+            "id": "4",
+            "subCatName": "Sikhism"
+        },
+        {
+            "id": "5",
+            "subCatName": "Buddhism"
+        },
+        {
+            "id": "6",
+            "subCatName": "Jainism"
+        },
+        {
+            "id": "7",
+            "subCatName": "Others"
+        }
+    ],
+    "houseward": [
+        {
+            "id": "1",
+            "subCatName": "Ward 1"
+        }
+    ]
+}

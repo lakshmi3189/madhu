@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "iconName": "material-symbols:dashboard-customize"
+    },
+    {
+        "id": "2",
+        "iconName":"uil:setting"
+    },
+    {
+        "id": "3",
+        "iconName": "game-icons:teacher"
+    },
+    {
+        "id": "4",
+        "iconName": "ph:student-fill"
+    },
+    {
+        "id": "5",
+        "iconName": "formkit:rupee"
+    },
+    {
+        "id": "6",
+        "iconName": "material-symbols:emoji-transportation-rounded"
+    },
+    {
+        "id": "7",
+        "iconName": "simple-line-icons:calender"
+    },
+    {
+        "id": "8",
+        "iconName": "fluent-mdl2:radio-bullet"
+    },
+    {
+        "id": "9",
+        "iconName": "heroicons:list-bullet-solid"
+    },
+    {
+        "id": "10",
+        "iconName": "pixelarticons:menu"
+    }
+]

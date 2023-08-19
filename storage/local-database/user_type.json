@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "userType": "Super Admin"
+    },
+    {
+        "id": "2",
+        "userType": "Admin"
+    },
+    {
+        "id": "3",
+        "userType": "HR"
+    },
+    {
+        "id":"4",
+        "userType":"Accountant"
+    },
+    {
+        "id": "5",
+        "userType": "Financial Analyst"
+    },
+    {
+        "id": "6",
+        "userType": "Manager"
+    },
+    {
+        "id": "7",
+        "userType": "Development Manager"
+    }
+]
